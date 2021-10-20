@@ -14,6 +14,10 @@ cari di search lalu login gitbush
 login gitHub 
 ![ing](ss/3.png)
 
-### Membuat respositories 
-membuat respositories baru
+### Membuat repository
+membuat repository baru
 ![ing](ss/4.png)
+
+### mengisi judul repository
+mengisi judul dan setting repository
+![ing](5.png)
