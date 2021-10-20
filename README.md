@@ -21,3 +21,7 @@ membuat repository baru
 ### mengisi judul repository
 mengisi judul dan setting repository
 ![ing](ss/5.png)
+
+### mengecek repository
+mengecek repository yang sudah dibuat
+![ing](ss/6.png)
