@@ -20,4 +20,4 @@ membuat repository baru
 
 ### mengisi judul repository
 mengisi judul dan setting repository
-![ing](5.png)
+![ing](ss/5.png)
