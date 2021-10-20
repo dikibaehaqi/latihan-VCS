@@ -13,3 +13,7 @@ cari di search lalu login gitbush
 ### login gitHub 
 login gitHub 
 ![ing](ss/3.png)
+
+### Membuat respositories 
+membuat respositories baru
+![ing](ss/4.png)
